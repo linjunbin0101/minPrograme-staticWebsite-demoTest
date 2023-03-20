@@ -1,0 +1,1 @@
+"D:\Soft\wxDevTool\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-6ginha5t91515134 --n quickstartFunctions --r --project "C:\Users\coffee\Desktop\xcx" --report_first --report
